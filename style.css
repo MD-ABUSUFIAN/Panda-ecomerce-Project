@@ -1,0 +1,37 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.buy-now-button{
+    padding: 15px 30px;
+    background-color: #FF136F;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-top: 5px;
+}
+.buy-now-button:hover{
+    
+    background-color: #f3f3f3;
+    color: #FF136F;
+    transition: 0.5s ease-in-out;
+    transform: rotate(10deg);
+    
+   
+}
+
+.price{
+    color: #FF136F;
+    font-size: 41px;
+    font-weight: 500;
+}
+.submit-button{
+    padding: 10px 20px;
+    background-color: #FF136F;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-top: 5px;
+}
